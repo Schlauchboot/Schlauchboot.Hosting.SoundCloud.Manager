@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "j3geNKAlcfqhleUpEJR7vRukybVX8n6Y1ce1vaG+oU99UwWC93Jy/Behv7xCL+OHzm0/BwRjFPXwHA2U8/+a0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gamer\\source\\repos\\Schlauchboot.Hosting.SoundCloud.Manager\\Schlauchboot.Hosting.SoundCloud.Manager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gamer\\.nuget\\packages\\ffmpegcore\\3.1.0\\ffmpegcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\gamer\\.nuget\\packages\\instances\\1.6.0\\instances.1.6.0.nupkg.sha512",
+    "C:\\Users\\gamer\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\gamer\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\gamer\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\gamer\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\gamer\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

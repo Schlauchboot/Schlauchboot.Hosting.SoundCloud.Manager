@@ -1,0 +1,8 @@
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\bin\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.deps.json
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\bin\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.dll
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\bin\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.pdb
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\obj\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\obj\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.AssemblyInfo.cs
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\obj\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.dll
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\obj\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.pdb
+C:\Users\gamer\source\repos\MPDevelopment.Hosting.SoundCloud.Manager\obj\Debug\netcoreapp3.1\MPDevelopment.Hosting.SoundCloud.Manager.csproj.CoreCompileInputs.cache
