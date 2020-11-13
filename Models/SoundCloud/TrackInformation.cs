@@ -15,7 +15,7 @@ namespace Schlauchboot.Hosting.SoundCloud.Manager.Models.SoundCloud
         public bool Commentable { get; set; }
 
         [JsonProperty("comment_count")]
-        public long CommentCount { get; set; }
+        public string CommentCount { get; set; }
 
         [JsonProperty("created_at")]
         public DateTimeOffset CreatedAt { get; set; }
